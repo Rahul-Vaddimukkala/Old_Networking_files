@@ -1,0 +1,128 @@
+. Computer Network Architecture
+	. Peer-To-Peer network
+	. Client/Server network
+. Computer Network Components
+	. NIC, switch, cable, hub, router, modem and cables.
+. Computer Network Types
+	.LAN(Local Area Network)
+	.PAN(Personal Area Network)
+	.MAN(Metropolitan Area Network)
+	.WAN(Wide Area Network)
+. What is Network Topology? Types ?
+	- BUS
+	- RING
+	- TREE
+	- STAR
+	- MESH
+	- HYBRID
+	
+. Transmission modes
+	- Simplex mode
+	- Half-duplex mode
+	- Full-duplex mode
+
+. OSI
+	1.Physical Layer
+		- Functions of a Physical layer
+			Line Configuration
+			Data Transmission
+			Topology
+			Signals
+
+	2.Data-Link Layer
+		- Functions of the Data-link layer
+			Framing
+			Physical Addressing
+			Flow Control
+			Error Control
+			Access Control
+	
+	3.Network Layer
+		- Functions of Network Layer:
+		  Internetworking
+		  Addressing
+		  Routing
+		  Packetizing
+		  
+	4.Transport Layer
+		- Functions of Transport Layer:
+		  Service-point addressing
+		  Segmentation and reassembly
+		  Connection control
+		  Flow control
+		  Error control
+		  
+	5.Session Layer
+		- Functions of Session Layer:
+		  Dialog control
+		  Synchronization
+		  
+	6.Presentation Layer
+		- Functions of Presentation Layer
+		  Translation
+		  Encryption
+		  Compression
+		  
+	7.Application Layer
+		- Functions of Application Layer:
+		  File transfer, access, and management (FTAM)
+		  Mail services
+		  Directory services
+		  
+. TCP
+. UDP
+. Subneting 
+. NAT
+. IP
+. ISIS
+. NETCONFIG 
+. DNS
+. L2
+	- ARP
+	- LLDP
+	- LACP
+	- STP
+	  rstp
+	  xstp
+	  vstp
+	- MPLS
+	- L2CP
+	- 
+	- PTP - both L2 and L3
+. L3
+	- BGP 
+	- VRRP 
+	- RIP
+	- RIPng
+	- OSPF 
+	- ECMP
+	- ICMP
+	- IGMP
+	- IPsec
+
+. L7 
+	- DHCP 
+	- HTTP 
+	- HTTPS
+	- SMTP
+	- SNMP
+	- FTP
+	- NTP
+	- Telnet - Tele Communication Protocol
+	- SSH
+	- TFTP
+	
+Important Features:
+- EVPN-VXLAN
+- ZTP
+- PHC
+- NSSU
+- ISSU
+- FIREWALL
+- DOT1X
+- COS
+- LAG/AE
+- MACSEC
+- POE
+- PORT-MIRROR
+- VC

@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Python:
+=======
+
+in capgemini python questions on sorting program lists basics questions on dictionary and basics on software testing
+in f5 they asked mainly dictionary in python ,list,lambda function,oops
+
+
+
+nokia-r1 list tuple diff arrary list diff datatypes polymorphism encapsution inheritance ---programm picling unpicling slicing sorted negative index reversing excpetion shallow copy copy diff find match search 
+
+
+mainly coding inhertance about and code tuple and list checking tuple are same or 
+not print prime numbers exceptions code 
+about string printing 
+
+list generator diif squares with comprehension 
+python pyramid pattern
+
+what robot frame work we use explain it and which editor used for  how you include extra testcase
+tup list diff,basics of python and small codes 
+write a simple code in robot framework
+what is suit setup and tear down  about tags in robot framwork
+
+
+problem solving codes on list 1 code on regex and string what is list ,dict ,tuples and difference 
+
+l1=[1,0,1,1,0,1,1,1,0,1,1] most cosecutive--3 write code explain method overriding by code what error is seen when we give key that is not present in dictionary and how to overcome and some other related to python basics ---------this is for L&T
+
+list duplicates to dictionary  second highest value dhi key print avvali , all keys are strings robot framework file and exception handling , how we use in try blocks diff tuples and list data types
+one regular expression question
+difference between extend append dictionary basic question about validity
+list =[1,2] list .apped(3) list = [1,2,3] list.extend("hi") list=[1,2,3,'h','i'] lis l1=[1,2] v=l1 v.append(3) st="hu0/0/0/1 00:10:11 fwd LI LH" re.match(f'hu0/0/0/1 00:10:11 fwd LI LH' ,st) l1 = [(1,2), (3,4), (5,6), (7,8), (9,10)] ----> swap places in tuples of list =====[(2,1),(4,3)...]
+  

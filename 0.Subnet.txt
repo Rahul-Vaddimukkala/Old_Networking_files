@@ -1,0 +1,49 @@
+Subnet Topics:
+-> Classes and ranges
+-> Find all ip's for the given range
+-> Find no.of hosts for network
+-> How many host addresses are available in the /28 ?
+-> Find network address for the 10.13.147.100/19 host?
+-> 
+
+
+1) What is the last usable IP address in the 218.6.0.0/17 network?
+
+Answers
+A. 218.6.125.254
+B. 218.6.126.254
+C. 218.6.127.254
+D. 218.6.128.254
+Explanations
+
+C
+
+To determine the last usable IP address in the 218.6.0.0/17 network, we first need to calculate the total number of IP addresses in the network.
+
+The subnet mask /17 indicates that the first 17 bits of the IP address are used for network addressing, leaving 15 bits for host addressing. This gives us a total of 2^15, or 32,768 IP addresses in the network.
+
+To determine the last usable IP address, we need to subtract 2 from the total number of IP addresses in the network. The first address (218.6.0.0) is reserved for the network address, and the last address is reserved for the broadcast address. This leaves us with 32,766 usable IP addresses.
+
+To calculate the last usable IP address, we start with the network address (218.6.0.0) and add 32,766.
+
+218.6.0.0 + 32,766 = 218.6.127.254
+
+Therefore, the last usable IP address in the 218.6.0.0/17 network is option C, 218.6.127.254.
+
+===================================================================================================================================================================================================================================================================================================
+2) How many host addresses are available in the /28 ?
+ 
+ 2^4 -2 = 14
+ 
+ ===================================================================================================================================================================================================================================================================================================
+ 
+ 3) Find network address for the 10.13.147.100/19 host?
+  
+    00001010.00001101.10010011.01100100
+	---------------------
+	   19 network bits 
+	   
+ => 10.13.128.0
+    
+===================================================================================================================================================================================================================================================================================================
+
